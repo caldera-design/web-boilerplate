@@ -16,10 +16,12 @@
     "bluebird": "^3.4.1",
     "classnames": "2.2.5",
     "core-decorators": "^0.15.0",
+    "gl-program": "^1.0.0",
     "immutable": "^3.8.1",
     "invariant": "2.2.1",
     "lodash": "4.14.1",
     "moment": "2.15.1",
+    "provide-dimensions": "^1.0.0",
     "radium": "^0.18.1",
     "react": "^15.0.0",
     "react-addons-shallow-compare": "15.3.1",
@@ -31,9 +33,14 @@
     "redux-logger": "2.6.1",
     "redux-storage": "4.1.0",
     "redux-storage-merger-immutablejs": "1.0.2",
-    "redux-thunk": "2.1.0"
+    "redux-thunk": "2.1.0",
+    "webgl-canvas": "^1.0.1",
+    "webgl-fancy-text": "file:///Users/jon/Projects/webgl-fancy-text",
+    "webgl-text": "^1.0.5",
+    "webgl-text-program": "file:///Users/jon/Projects/webgl-text-program"
   },
   "devDependencies": {
+    "@types/react": "^15.0.20",
     "babel-core": "^6.10.4",
     "babel-eslint": "^6.1.2",
     "babel-loader": "^6.2.4",
